@@ -1,0 +1,19 @@
+{
+	"airtel": [
+		{
+			"name": "xtream",
+			"pricePerStock": 150,
+			"numberOfStocks": 20
+		},
+		{
+			"name": "airtelbroadband",
+			"pricePerStock": 250,
+			"numberOfStocks": 10
+		},
+		{
+			"name": "bhartiairtel",
+			"pricePerStock": 300,
+			"numberOfStocks": 30
+		}
+	]
+}
