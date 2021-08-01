@@ -1,0 +1,38 @@
+{
+	"reliance": [
+		{
+			"name": "jio",
+			"pricePerStock": 100,
+			"numberOfStocks": 15
+		},
+		{
+			"name": "jiofiber",
+			"pricePerStock": 225,
+			"numberOfStocks": 40
+		}
+	],
+	"bsnl": [
+		{
+			"name": "bsnlbroadband",
+			"pricePerStock": 200,
+			"numberOfStocks": 25
+		}
+	],
+	"airtel": [
+		{
+			"name": "xtream",
+			"pricePerStock": 150,
+			"numberOfStocks": 20
+		},
+		{
+			"name": "airtelbroadband",
+			"pricePerStock": 250,
+			"numberOfStocks": 10
+		},
+		{
+			"name": "bhartiairtel",
+			"pricePerStock": 300,
+			"numberOfStocks": 30
+		}
+	]
+}
